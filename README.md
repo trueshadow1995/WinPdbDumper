@@ -22,6 +22,3 @@ WDP.exe --pdb <path\to.pdb>    # override PDB
 
 Auto-picks the newest PDB under `C:\Symbols\ntkrnlmp.pdb\<GUID>\`.
 
-## Build
-
-Open `WinPdbDumper.slnx` in VS 2022, build Release x64. Binary is `WDP.exe`.
