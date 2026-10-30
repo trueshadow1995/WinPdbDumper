@@ -1,6 +1,6 @@
 # WDP
 
-Reads `ntkrnlmp.pdb` from the local symbol cache and prints kernel struct offsets and function RVAs. DIA SDK ships with Visual Studio, no other deps.
+Reads `ntkrnlmp.pdb` from the local symbol cache and prints kernel struct offsets and function RVAs.
 
 ## Run
 
